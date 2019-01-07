@@ -1,5 +1,3 @@
-## <a href="https://foobar167.github.io" target="_blank">foobar167.github.io</a>
+## [foobar167.github.io](foobar167.github.io)
 
-Website about
-<a href="https://github.com/foobar167" target="_blank">FooBar167</a>
-GitHub.
+Website about [FooBar167](https://github.com/foobar167) GitHub.
