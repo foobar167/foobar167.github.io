@@ -1,4 +1,4 @@
-### "Chaos game" is a "fractal player" on Javascript.
+### Chaos Game is a "fractal player" on Javascript.
 
 [Click this link and play "Chaos Game" on your computer](https://foobar167.github.io/page/chaos-game/chaos-game.html)
 
@@ -12,4 +12,4 @@ Turn on/off color mode with {1} and {2} keys.
 Black-and-white drawing is faster,
 but colored drawing is more beautiful.
 
-[![Chaos Game](chaos-player.png)](https://foobar167.github.io/page/chaos-game/chaos-game.html)
+[![Click this link and play "Chaos Game" on your computer](chaos-player.png)](https://foobar167.github.io/page/chaos-game/chaos-game.html)
