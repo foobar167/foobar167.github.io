@@ -88,6 +88,6 @@ ol > li:before {
 }
 iframe {
     border: none;
-    width: 700px;
-    height: 700px;
+    width: 25%;
+    height: 25%;
 }
