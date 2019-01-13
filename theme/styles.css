@@ -86,3 +86,8 @@ ol > li:before {
     display: table-cell;
     padding-right: 0.3em;
 }
+iframe {
+    border: none;
+    width: 700px;
+    height: 700px;
+}
