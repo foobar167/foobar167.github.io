@@ -81,7 +81,7 @@ function initializeWebGL() {
 
     // Call the routine that builds all the drawing objects.
     buffers = initBuffers();
-    const texture = loadTexture(['textures/doges.png']);
+    const texture = loadTexture(['data/doges.png']);
 
     // Draw the scene repeatedly
     let then = 0;
